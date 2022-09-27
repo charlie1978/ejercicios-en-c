@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659642932 source:e:\prospercity\programacion\ejercicio 01-clase2\ejemplo_18\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
